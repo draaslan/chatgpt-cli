@@ -1,4 +1,5 @@
-# ChatGPT Python CLI
+
+# ChatGPT Python CLI
 
 If chat.openai.com is down, you can keep chatting with OpenAI's chat functions using this Python script and your personal OpenAI API Key.
 
