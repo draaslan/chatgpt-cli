@@ -18,3 +18,6 @@ Add your OpenAI API Key to chat.py file.
 
 ### 3. Run the Script
     python chat.py
+
+https://user-images.githubusercontent.com/3878466/225411141-c19bfed3-60a1-442f-a806-0ac43b17681c.mov
+
